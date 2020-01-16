@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+echo "Extracting all the files"
+sudo mv ./quickpush /usr/bin
+
+echo "installed:"
+echo "<quickpush>"
+
+echo "removing installer"
+rm ../IQLC
