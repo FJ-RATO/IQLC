@@ -8,4 +8,4 @@ echo "<quickpush>"
 
 echo "removing installer"
 rm *
-rmdir ../IQLC
+rmdir -f ../IQLC
