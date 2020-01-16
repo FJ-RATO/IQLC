@@ -7,4 +7,5 @@ echo "installed:"
 echo "<quickpush>"
 
 echo "removing installer"
-rm ../IQLC
+rm *
+rmdir ../IQLC
