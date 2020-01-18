@@ -1,0 +1,17 @@
+#!/usr/bin/bash
+
+echo "Extracting all the files"
+sudo mv * /usr/bin
+
+tput bold ; echo "installed:"
+tput setaf 2 ; echo "<quickpush>"
+
+tput setaf 2 ; echo "removing installer"
+
+sudo rm /usr/bin/IQLC
+sudo rm /usr/bin/README.md
+
+tput bold : echo "removed:"
+tput setaf 1 ; echo "<IQLC>"
+tput setaf 1 ; echo "<README.md>"
+

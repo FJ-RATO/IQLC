@@ -6,9 +6,13 @@
 2. Copy all the commands you want
 
 ### How to add automatically:
-1. Run ./installer
+1. CD to IQLC
+2. Run ./IQLC
 
 ## List of commands
 
 ### Quick push:
 Add's and commits all the file's to rep of the directory with the comment "Push done automatically"
+
+### s:
+Call the previous command with sudo prefix
