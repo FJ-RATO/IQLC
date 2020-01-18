@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 echo "Extracting all the files"
 sudo mv * /usr/bin
