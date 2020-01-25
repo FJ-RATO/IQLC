@@ -13,6 +13,3 @@
 
 ### Quick push:
 Add's and commits all the file's to rep of the directory with the comment "Push done automatically"
-
-### s:
-Call the previous command with sudo prefix
